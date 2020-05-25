@@ -1,4 +1,4 @@
-# alcool_gazolina
+# alcool_gasolina
 
 A new Flutter project.
 
